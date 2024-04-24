@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 
 - 💡 I’m currently working on PRS model
-- 🌱 I’m currently creating new package (tools for genetics analysis)
-- 💬 Ask me about bioinformatics or GPRS package!
+- 🌱 I’m currently creating new package (tools for RNA-seq analysis)
+- 💬 Ask me about anything about bioinformatics or GPRS/STRST packages!
 - 📫 How to reach me: yingchu.lo@gmail.com
--->
